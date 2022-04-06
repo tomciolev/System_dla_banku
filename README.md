@@ -1,3 +1,2 @@
 # System_dla_banku
-Projekt jest jeszcze w trakcie realizacji.
-Rozwiązanie zawiera tworzenie obiektów, obsługa wyjątków, serializacja, czytanie z plików, testy jednostkowe.
+Rozwiązanie zawiera tworzenie obiektów, obsługa wyjątków, serializacje, czytanie z plików, testy jednostkowe - podstawowe elementy programowania w Java. Projekt będzie niedlugo rozwijany, klasy rozbudowywane itp., powstanie aplikacja z wykorzystaniem frameworka Spring Boot.
